@@ -1,0 +1,155 @@
+.back{
+	background: url(../Image/Smalltripe.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: fixed;
+	background-attachment: fixed;
+}
+
+.contab1{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	width: 90%;
+	border-radius: 25px 25px 0px 0px;
+	border: 5px solid #000000;
+	border-bottom: 0px;
+	background-color: #E1E1E1;
+	height: 1000px;
+}
+
+.contab1 tr,td{
+	width: 50%;
+}
+.contab2{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	width: 90%;
+	border-radius: 0px 0px 25px 25px;
+	border: 5px solid #000000;
+	border-top: 0px;
+	background-color: #E1E1E1;
+	height: 900px;
+}
+
+.contab2 tr,td{
+	width: 50%;
+}
+
+.contimg{
+	margin-left: 40px;
+	margin-top: 50px;
+	width: 840px;
+	height: 700px;
+	padding: 0;
+	border-radius: 25px;
+	background-color: #E1E1E1;
+}
+
+.contimg p{
+	text-align: center;
+	font-weight: bold;
+
+}
+.contimg img{
+	width: 800px;
+	height: 600px;
+	padding: 0;
+	box-shadow: 2px 2px 30px rgba(0,0,0,0.2);
+	border-radius: 25px;
+	border: 2px solid #F3F3F3;
+	margin: 40px 20px 0px 20px;
+}
+
+.condiv{
+	margin-left: 120px;
+	width: 600px;
+	height: 750px;
+	border: 5px solid #000000;
+	border-radius: 25px;
+	background-color: #F3F3F3;
+	color: #000000;
+	box-shadow: 2px 2px 30px rgba(0,0,0,0.2);
+}
+
+.condiv p{
+	margin-left: 275px;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+.contactguide span{
+	font-size: 40px;
+}
+.frontline{
+	margin-right: 0px;
+	width: 90%;
+	border: 8px solid #FFFFFF;
+	border-radius: 0px 25px 25px 0px;
+}
+
+.contactguide img{
+	
+	margin-left: 30px;
+}
+
+.contactguide h2{
+	color: #F3F3F3;
+	margin-left: 100px;
+}
+/*------------------------------------------------------*/
+
+.title{
+	color: #000000;
+	font-size: 24px;
+	margin-left: 50px;
+}
+
+.titleline{
+	display: block;
+	border-style: inset;
+	border-width: 1px;
+
+}
+
+.QandA{
+	margin: auto;
+	width: 80%;
+}
+
+.Quest{
+	background-color: #f5f5f5;
+	border-left: 5px solid #000000;
+	border-radius: 5px;
+}
+
+.Qsign{
+	font-size: 50px;
+	color: #000000;
+}
+
+.Qtext{
+	font-size: 25px;
+}
+
+.Answer{
+	background-color: #f5f5f5;
+	border-left: 5px solid grey;
+	border-radius: 5px;
+}
+
+.Asign{
+	font-size: 50px;
+	color: grey;
+}
+
+.Atext{
+	font-size: 25px;
+}
+

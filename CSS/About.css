@@ -1,0 +1,95 @@
+.about{
+	background: url(../Image/DarkTract.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	background-position: fixed;
+	background-attachment: fixed;
+}
+
+.abttab1{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 180px;
+	width: 90%;
+	border-radius: 25px;
+	border: 2px solid #FFFFFF;
+	background-color: #1B1B1B;
+	height: 600px;
+}
+.attab1 tr,td{
+	width: 50%;
+}
+
+
+.abtimg1{
+	
+	margin-left: 40px;
+	width: 800px;
+	height: 500px;
+	
+	padding: 0;
+}
+.abtimg2{
+	
+	margin-left: 20px;
+	width: 800px;
+	height: 500px;
+	
+	padding: 0;
+}
+
+.abtimg1 img{
+	
+	width: 800px;
+	height: 500px;
+	padding: 0;
+	box-shadow: 2px 2px 30px rgba(0,0,0,0.2);
+	border-radius: 25px;
+}
+
+.abtimg2 img{
+	width: 800px;
+	height: 500px;
+	padding: 0;
+	box-shadow: 2px 2px 30px rgba(0,0,0,0.2);
+	border-radius: 25px;
+}
+
+.abtit{
+	margin-left: 40px;
+	font-size: 30px;	
+	color: #141414;
+}
+
+
+.abtail{
+	margin-left: 40px;
+	text-align: justify;
+	text-indent: 60px;
+	margin-right: 40px;	
+}
+.abtail p{
+	font-size: 30px;
+}
+.detail{
+	margin-left: 120px;
+	width: 600px;
+	height: 420px;
+	border: 1px solid #000000;
+	border-radius: 25px;
+	background-color: #F3F3F3;
+	color: #000000;
+	box-shadow: 2px 2px 30px rgba(0,0,0,0.2);
+}
+
+.detail2{
+	margin-left: 60px;
+	width: 700px;
+	height: 420px;
+	border: 1px solid #000000;
+	border-radius: 25px;
+	background-color: #F3F3F3;
+	color: #000000;
+	box-shadow: 2px 2px 30px rgba(0,0,0,0.2);
+}

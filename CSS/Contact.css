@@ -1,0 +1,142 @@
+.contact{
+	background: url(../Image/blackslash.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: fixed;
+	background-attachment: fixed;
+}
+
+.contab1{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	width: 90%;
+	border-radius: 25px;
+	border: 2px solid #FFFFFF;
+	background-color: #1B1B1B;
+	height: 800px;
+}
+
+.contab1 tr,td{
+	width: 50%;
+}
+
+.contimg{
+	margin-left: 40px;
+	margin-top: 50px;
+	width: 840px;
+	height: 700px;
+	padding: 0;
+	border-radius: 25px;
+	background-color: #E1E1E1;
+}
+.contimg p{
+	text-align: center;
+	font-weight: bold;
+
+}
+.contimg img{
+	width: 800px;
+	height: 600px;
+	padding: 0;
+	box-shadow: 2px 2px 30px rgba(0,0,0,0.2);
+	border-radius: 25px;
+	border: 2px solid #F3F3F3;
+	margin: 40px 20px 0px 20px;
+}
+
+.condiv{
+	margin-left: 120px;
+	width: 600px;
+	height: 700px;
+	border: 1px solid #000000;
+	border-radius: 25px;
+	background-color: #F3F3F3;
+	color: #000000;
+	box-shadow: 2px 2px 30px rgba(0,0,0,0.2);
+}
+
+.contit{
+	margin-left: 180px;
+	font-size: 30px;	
+	color: #141414;
+}
+
+.contail{
+	margin-left: 40px;
+	margin-right: 40px;
+	text-align: justify;	
+}
+
+
+.contail h2{
+	font-size: 30px;
+	margin-top: 10px;
+}
+
+.confo{
+	background-color: #141414;
+	border: 1px solid #141414;
+	border-radius: 25px;
+	padding: 12px;
+	color: #E1E1E1;
+}
+
+.conform{
+	margin-top: 80px;
+	margin-left: 100px;
+}
+
+.name, .mail, .subject{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.inputbar{
+	width: 80%;
+	background: transparent;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid gray;
+	color: #000000;
+	font-size: 18px;
+	margin-bottom: 16px;
+}
+
+
+
+input[type=submit] {
+  background-color: #141414;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  border: 2px solid #141414;
+}
+
+input[type=submit]:hover {
+  background-color: #E1E1E1;
+  color: #1B1B1B;
+}
+
+.contactguide{
+	
+}
+.formline{
+	margin-right: 0px;
+	
+	width: 80%;
+	border: 8px solid #FFFFFF;
+	border-radius: 25px 0px 0px 25px;
+}
+
+.contactguide h1{
+	color: #FFFFFF;
+	margin-right: 100px;
+}
+
+.contactguide h2{
+	color: #F3F3F3;
+	margin-right: 100px;
+}

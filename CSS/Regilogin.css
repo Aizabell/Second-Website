@@ -1,0 +1,233 @@
+.back{
+	background: url(../Image/Smalltripe.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: fixed;
+	background-attachment: fixed;
+}
+
+.contab1{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	width: 90%;
+	border-radius: 25px;
+	border: 2px solid #FFFFFF;
+	background-color: #1B1B1B;
+	height: 800px;
+}
+
+.contab1 tr,td{
+	width: 50%;
+}
+
+.contimg{
+	margin-left: 40px;
+	margin-top: 50px;
+	width: 840px;
+	height: 700px;
+	padding: 0;
+	border-radius: 25px;
+	background-color: #E1E1E1;
+}
+
+.contimg p{
+	text-align: center;
+	font-weight: bold;
+
+}
+.contimg img{
+	width: 800px;
+	height: 600px;
+	padding: 0;
+	box-shadow: 2px 2px 30px rgba(0,0,0,0.2);
+	border-radius: 25px;
+	border: 2px solid #F3F3F3;
+	margin: 40px 20px 0px 20px;
+}
+
+.condiv{
+	margin-left: 120px;
+	width: 600px;
+	height: 750px;
+	border: 5px solid #000000;
+	border-radius: 25px;
+	background-color: #F3F3F3;
+	color: #000000;
+	box-shadow: 2px 2px 30px rgba(0,0,0,0.2);
+}
+
+.condiv p{
+	margin-left: 275px;
+	font-weight: bold;
+}
+
+
+.contit1{
+	margin-left: 230px;
+	font-size: 30px;	
+	color: #141414;
+}
+.contit2{
+	margin-left: 200px;
+	font-size: 30px;	
+	color: #141414;
+}
+
+.contail{
+	margin-left: 40px;
+	margin-right: 40px;
+	text-align: justify;	
+}
+
+
+.contail h2{
+	font-size: 30px;
+	margin-top: 10px;
+}
+
+.confo{
+	background-color: #141414;
+	border: 1px solid #141414;
+	border-radius: 25px;
+	padding: 12px;
+	color: #E1E1E1;
+}
+
+.conform{
+	margin-top: 40px;
+	margin-left: 100px;
+}
+
+.name, .mail, .subject{
+	font-weight: bold;
+	font-size: 20px;
+	letter-spacing: 2px;
+}
+
+.inputbar{
+	width: 85%;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	font-weight: bold;
+	border: 3px solid black;
+}
+
+.loginbtn{
+	width: 415px;
+	height: 50px;
+	background-color: #000000;
+	text-align: center;
+	border-radius: 5px;
+	padding: 5px;
+	border: 2px solid #000000;
+}
+
+.loginbtn:hover {
+	background-color: #FFFFFF;
+	
+}
+.loginbtn a:hover{
+	color: #000000;
+}
+
+.loginbtn a{
+	margin-top: 20px;
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+
+
+input[type=submit] {
+  background-color: #141414;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  border: 2px solid #141414;
+}
+
+input[type=submit]:hover {
+  background-color: #E1E1E1;
+  color: #1B1B1B;
+}
+
+.contactguide span{
+	font-size: 40px;
+}
+.frontline{
+	margin-right: 0px;
+	width: 90%;
+	border: 8px solid #FFFFFF;
+	border-radius: 0px 25px 25px 0px;
+}
+
+.contactguide img{
+	
+	margin-left: 30px;
+}
+
+.contactguide h2{
+	color: #F3F3F3;
+	margin-left: 100px;
+}
+
+.choice a{
+	margin-left: 200px;
+	font-weight: bold;
+	color: #000000;
+}
+
+.choice a:hover {
+	color: #1B1B1B;
+}
+/*social option login*/
+.fb {
+  background-color: #3B5998;
+  color: white;
+  width: 400px;
+  height: 50px;
+  border-radius: 25px;
+}
+
+.twitter {
+  background-color: #55ACEE;
+  color: white;
+  width:400px;
+  border-radius: 25px;
+  height: 50px;
+}
+
+.google {
+	border-radius: 25px;
+  background-color: #dd4b39;
+  color: white;
+  width: 400px;
+  height: 50px;
+}
+
+.col {
+  
+  width: 80%;
+  margin-left: 70px;
+  padding: 0 50px;
+  margin-top: 6px;
+}
+
+.btn {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  margin: 5px 0;
+  opacity: 0.85;
+  display: inline-block;
+  font-size: 17px;
+  line-height: 20px;
+  text-decoration: none;
+}
